@@ -1,0 +1,174 @@
+{
+  "common": {
+    "loading": "Cargando...",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "view": "Ver",
+    "back": "Volver",
+    "search": "Buscar",
+    "create": "Crear",
+    "update": "Actualizar",
+    "yes": "Sí",
+    "no": "No",
+    "confirm": "Confirmar",
+    "close": "Cerrar"
+  },
+  "navigation": {
+    "dashboard": "Dashboard",
+    "campaigns": "Campañas",
+    "createCampaign": "Nueva Campaña",
+    "profile": "Perfil",
+    "settings": "Configuración",
+    "logout": "Cerrar Sesión"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "subtitle": "Resumen general de tus campañas publicitarias",
+    "configure": "Configurar",
+    "totalCampaigns": "Total Campañas",
+    "activeCampaigns": "Campañas Activas",
+    "totalViews": "Total Vistas",
+    "totalClicks": "Total Clicks",
+    "conversions": "Conversiones",
+    "totalSpend": "Gasto Total",
+    "recentCampaigns": "Campañas Recientes",
+    "viewAll": "Ver todas",
+    "performanceChart": "Gráfico de Rendimiento"
+  },
+  "campaigns": {
+    "title": "Campañas",
+    "subtitle": "Gestiona todas tus campañas publicitarias",
+    "newCampaign": "Nueva Campaña",
+    "searchPlaceholder": "Buscar campañas...",
+    "filters": {
+      "all": "Todas",
+      "active": "Activas",
+      "paused": "Pausadas",
+      "finished": "Finalizadas",
+      "draft": "Borradores"
+    },
+    "status": {
+      "active": "Activa",
+      "paused": "Pausada",
+      "finished": "Finalizada",
+      "cancelled": "Cancelada",
+      "draft": "Borrador"
+    },
+    "priority": {
+      "low": "Baja",
+      "medium": "Media",
+      "high": "Alta",
+      "urgent": "Urgente"
+    },
+    "metrics": {
+      "views": "Vistas",
+      "clicks": "Clicks",
+      "conversions": "Conversiones",
+      "ctr": "CTR",
+      "conversionRate": "Conversión"
+    },
+    "actions": {
+      "viewDetails": "Ver Detalles",
+      "edit": "Editar",
+      "delete": "Eliminar",
+      "deleting": "Eliminando..."
+    },
+    "empty": {
+      "title": "No hay campañas",
+      "subtitle": "Crea tu primera campaña para comenzar",
+      "createFirst": "Crear Campaña"
+    }
+  },
+  "campaignForm": {
+    "title": "Crear Campaña",
+    "editTitle": "Editar Campaña",
+    "basicInfo": "Información Básica",
+    "name": "Nombre de la Campaña",
+    "nameRequired": "El nombre es requerido",
+    "description": "Descripción",
+    "descriptionPlaceholder": "Describe el objetivo de la campaña...",
+    "budget": "Presupuesto",
+    "budgetRequired": "El presupuesto es requerido",
+    "budgetMin": "El presupuesto debe ser mayor a 0",
+    "channel": "Canal",
+    "channelRequired": "El canal es requerido",
+    "channelOptions": {
+      "facebook": "Facebook",
+      "instagram": "Instagram",
+      "google": "Google Ads",
+      "twitter": "Twitter",
+      "linkedin": "LinkedIn",
+      "youtube": "YouTube"
+    },
+    "dates": "Fechas",
+    "startDate": "Fecha de Inicio",
+    "startDateRequired": "La fecha de inicio es requerida",
+    "endDate": "Fecha de Fin",
+    "endDateRequired": "La fecha de fin es requerida",
+    "priority": "Prioridad",
+    "priorityRequired": "La prioridad es requerida",
+    "priorityOptions": {
+      "low": "Baja",
+      "medium": "Media",
+      "high": "Alta",
+      "urgent": "Urgente"
+    },
+    "actions": {
+      "save": "Guardar Campaña",
+      "saving": "Guardando...",
+      "cancel": "Cancelar",
+      "saveChanges": "Guardar Cambios"
+    }
+  },
+  "campaignDetail": {
+    "title": "Detalles de la Campaña",
+    "notFound": "Campaña no encontrada",
+    "notFoundMessage": "La campaña que buscas no existe o ha sido eliminada.",
+    "backToCampaigns": "Volver a Campañas",
+    "description": "Descripción",
+    "dates": "Fechas",
+    "budget": "Presupuesto",
+    "views": "Vistas",
+    "clicks": "Clicks",
+    "conversions": "Conversiones"
+  },
+  "login": {
+    "title": "Iniciar Sesión",
+    "subtitle": "Accede a tu cuenta de INMAX AVISADORES",
+    "email": "Correo Electrónico",
+    "emailRequired": "El correo electrónico es requerido",
+    "emailInvalid": "El correo electrónico no es válido",
+    "password": "Contraseña",
+    "passwordRequired": "La contraseña es requerida",
+    "loginButton": "Iniciar Sesión",
+    "loggingIn": "Iniciando sesión...",
+    "forgotPassword": "¿Olvidaste tu contraseña?",
+    "noAccount": "¿No tienes cuenta?",
+    "register": "Regístrate aquí"
+  },
+  "footer": {
+    "title": "INMAX AVISADORES",
+    "subtitle": "Sistema de gestión de campañas publicitarias",
+    "quickLinks": "Enlaces Rápidos",
+    "followUs": "Síguenos",
+    "contact": "Contacto",
+    "email": "Email: info@inmaxavisadores.com",
+    "phone": "Teléfono: +1 (555) 123-4567",
+    "copyright": "© 2024 INMAX AVISADORES. Todos los derechos reservados."
+  },
+  "language": {
+    "spanish": "Español",
+    "english": "English",
+    "portuguese": "Português"
+  },
+  "errors": {
+    "generic": "Ha ocurrido un error",
+    "network": "Error de conexión",
+    "unauthorized": "No autorizado",
+    "forbidden": "Acceso denegado",
+    "notFound": "No encontrado",
+    "serverError": "Error del servidor"
+  }
+}

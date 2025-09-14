@@ -1,0 +1,174 @@
+{
+  "common": {
+    "loading": "Carregando...",
+    "save": "Salvar",
+    "cancel": "Cancelar",
+    "edit": "Editar",
+    "delete": "Excluir",
+    "view": "Ver",
+    "back": "Voltar",
+    "search": "Pesquisar",
+    "create": "Criar",
+    "update": "Atualizar",
+    "yes": "Sim",
+    "no": "Não",
+    "confirm": "Confirmar",
+    "close": "Fechar"
+  },
+  "navigation": {
+    "dashboard": "Painel",
+    "campaigns": "Campanhas",
+    "createCampaign": "Nova Campanha",
+    "profile": "Perfil",
+    "settings": "Configurações",
+    "logout": "Sair"
+  },
+  "dashboard": {
+    "title": "Painel",
+    "subtitle": "Visão geral das suas campanhas publicitárias",
+    "configure": "Configurar",
+    "totalCampaigns": "Total de Campanhas",
+    "activeCampaigns": "Campanhas Ativas",
+    "totalViews": "Total de Visualizações",
+    "totalClicks": "Total de Cliques",
+    "conversions": "Conversões",
+    "totalSpend": "Gasto Total",
+    "recentCampaigns": "Campanhas Recentes",
+    "viewAll": "Ver todas",
+    "performanceChart": "Gráfico de Desempenho"
+  },
+  "campaigns": {
+    "title": "Campanhas",
+    "subtitle": "Gerencie todas as suas campanhas publicitárias",
+    "newCampaign": "Nova Campanha",
+    "searchPlaceholder": "Pesquisar campanhas...",
+    "filters": {
+      "all": "Todas",
+      "active": "Ativas",
+      "paused": "Pausadas",
+      "finished": "Finalizadas",
+      "draft": "Rascunhos"
+    },
+    "status": {
+      "active": "Ativa",
+      "paused": "Pausada",
+      "finished": "Finalizada",
+      "cancelled": "Cancelada",
+      "draft": "Rascunho"
+    },
+    "priority": {
+      "low": "Baixa",
+      "medium": "Média",
+      "high": "Alta",
+      "urgent": "Urgente"
+    },
+    "metrics": {
+      "views": "Visualizações",
+      "clicks": "Cliques",
+      "conversions": "Conversões",
+      "ctr": "CTR",
+      "conversionRate": "Conversão"
+    },
+    "actions": {
+      "viewDetails": "Ver Detalhes",
+      "edit": "Editar",
+      "delete": "Excluir",
+      "deleting": "Excluindo..."
+    },
+    "empty": {
+      "title": "Nenhuma campanha",
+      "subtitle": "Crie sua primeira campanha para começar",
+      "createFirst": "Criar Campanha"
+    }
+  },
+  "campaignForm": {
+    "title": "Criar Campanha",
+    "editTitle": "Editar Campanha",
+    "basicInfo": "Informações Básicas",
+    "name": "Nome da Campanha",
+    "nameRequired": "O nome é obrigatório",
+    "description": "Descrição",
+    "descriptionPlaceholder": "Descreva o objetivo da campanha...",
+    "budget": "Orçamento",
+    "budgetRequired": "O orçamento é obrigatório",
+    "budgetMin": "O orçamento deve ser maior que 0",
+    "channel": "Canal",
+    "channelRequired": "O canal é obrigatório",
+    "channelOptions": {
+      "facebook": "Facebook",
+      "instagram": "Instagram",
+      "google": "Google Ads",
+      "twitter": "Twitter",
+      "linkedin": "LinkedIn",
+      "youtube": "YouTube"
+    },
+    "dates": "Datas",
+    "startDate": "Data de Início",
+    "startDateRequired": "A data de início é obrigatória",
+    "endDate": "Data de Fim",
+    "endDateRequired": "A data de fim é obrigatória",
+    "priority": "Prioridade",
+    "priorityRequired": "A prioridade é obrigatória",
+    "priorityOptions": {
+      "low": "Baixa",
+      "medium": "Média",
+      "high": "Alta",
+      "urgent": "Urgente"
+    },
+    "actions": {
+      "save": "Salvar Campanha",
+      "saving": "Salvando...",
+      "cancel": "Cancelar",
+      "saveChanges": "Salvar Alterações"
+    }
+  },
+  "campaignDetail": {
+    "title": "Detalhes da Campanha",
+    "notFound": "Campanha não encontrada",
+    "notFoundMessage": "A campanha que você procura não existe ou foi excluída.",
+    "backToCampaigns": "Voltar às Campanhas",
+    "description": "Descrição",
+    "dates": "Datas",
+    "budget": "Orçamento",
+    "views": "Visualizações",
+    "clicks": "Cliques",
+    "conversions": "Conversões"
+  },
+  "login": {
+    "title": "Entrar",
+    "subtitle": "Acesse sua conta INMAX AVISADORES",
+    "email": "Endereço de Email",
+    "emailRequired": "O email é obrigatório",
+    "emailInvalid": "O email não é válido",
+    "password": "Senha",
+    "passwordRequired": "A senha é obrigatória",
+    "loginButton": "Entrar",
+    "loggingIn": "Entrando...",
+    "forgotPassword": "Esqueceu sua senha?",
+    "noAccount": "Não tem uma conta?",
+    "register": "Registre-se aqui"
+  },
+  "footer": {
+    "title": "INMAX AVISADORES",
+    "subtitle": "Sistema de gestão de campanhas publicitárias",
+    "quickLinks": "Links Rápidos",
+    "followUs": "Siga-nos",
+    "contact": "Contato",
+    "email": "Email: info@inmaxavisadores.com",
+    "phone": "Telefone: +1 (555) 123-4567",
+    "copyright": "© 2024 INMAX AVISADORES. Todos os direitos reservados."
+  },
+  "language": {
+    "spanish": "Español",
+    "english": "English",
+    "portuguese": "Português"
+  },
+  "errors": {
+    "generic": "Ocorreu um erro",
+    "network": "Erro de conexão",
+    "unauthorized": "Não autorizado",
+    "forbidden": "Acesso negado",
+    "notFound": "Não encontrado",
+    "serverError": "Erro do servidor"
+  }
+}
